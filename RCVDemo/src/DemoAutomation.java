@@ -7,7 +7,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 public class DemoAutomation {
 
 	public static void main(String[] args) {
-		// comment check
+		// check
 		System.setProperty("webdriver.chrome.driver","D:\\software\\Browser Drivers\\Chrome102\\chromedriver.exe");
 		ChromeDriver driver= new ChromeDriver();
 		//FirefoxDriver driver=new FirefoxDriver();
