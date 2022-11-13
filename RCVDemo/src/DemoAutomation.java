@@ -19,6 +19,7 @@ public class DemoAutomation {
 		driver.findElement(By.xpath("//input[@id='Email']")).sendKeys("tomkam@gmail.com");		
 		driver.findElement(By.cssSelector("#password")).sendKeys("tomkamand$123");
 		//driver.findElement(By.linkText("Sign in")).click();
+// ok ok
 	}
 
 }
