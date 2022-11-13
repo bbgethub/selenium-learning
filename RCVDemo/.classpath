@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/bin"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/software/selenium-server-4.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/software/apache/org.apache.commons.io.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
